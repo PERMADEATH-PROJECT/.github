@@ -18,6 +18,7 @@ Everything you find here is part of the TFG, including the launcher, mods, comma
   - [`launcher-installer-handler`](https://github.com/PERMADEATH-PROJECT/launcher-installer-handler)
   - [`launcher-minecraft-handler`](https://github.com/PERMADEATH-PROJECT/launcher-minecraft-handler)
   - [`launcher-request-handler`](https://github.com/PERMADEATH-PROJECT/launcher-request-handler)
+  - [`launcher-java-installer`](https://github.com/PERMADEATH-PROJECT/launcher-java-installer)
 
 ## Tech stack
 
